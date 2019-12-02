@@ -1,0 +1,10 @@
+package com.tyss.talenthunt.service;
+
+public class AddRequirementService {
+
+	public boolean addRequirement() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

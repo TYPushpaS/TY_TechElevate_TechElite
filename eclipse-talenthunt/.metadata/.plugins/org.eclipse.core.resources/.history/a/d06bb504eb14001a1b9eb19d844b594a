@@ -1,0 +1,17 @@
+package com.tyss.talenthunt.service;
+
+import com.tyss.talenthunt.dto.AddRequirement;
+
+public class AddRequirementService {
+
+	public boolean addRequirement() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	public boolean updateRequirement(AddRequirement requirement) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

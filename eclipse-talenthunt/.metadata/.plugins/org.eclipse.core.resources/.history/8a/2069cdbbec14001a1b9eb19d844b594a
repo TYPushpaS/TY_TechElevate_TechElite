@@ -1,0 +1,18 @@
+package com.tyss.talenthunt.service;
+
+import com.tyss.talenthunt.dto.AddRequirement;
+
+public class AddRequirementServiceImpl implements AddRequirementServiceInterface {
+
+	@Override
+	public boolean addRequirement(AddRequirement requirement) {
+		return false;
+	}
+
+	@Override
+	public boolean updateRequirement(AddRequirement requirement) {
+		return false;
+	}
+
+
+}

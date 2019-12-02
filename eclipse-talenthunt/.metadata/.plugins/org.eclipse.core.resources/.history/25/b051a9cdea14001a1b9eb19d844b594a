@@ -1,0 +1,5 @@
+package com.tyss.talenthunt.service;
+
+public interface AddRequirementInterface {
+
+}
